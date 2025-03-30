@@ -1,10 +1,11 @@
 # README
 
-Put neovim messages into the quickfix list by command `QuickfixMessages`.
+A minimalist neovim plugin to put messages into the quickfix list by command
+`QuickfixMessages`.
 
 ## Get Started
 
-lazy.nvim
+Install this plugin by [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
